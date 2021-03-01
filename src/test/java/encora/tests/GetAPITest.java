@@ -4,7 +4,6 @@ import encora.apiclient.ClientAPI;
 import encora.base.TestBase;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-
 import java.io.IOException;
 
 public class GetAPITest extends TestBase {
